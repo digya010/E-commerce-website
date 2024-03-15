@@ -5,7 +5,7 @@ Estore is an Online Store Management System created as a Semester Project to exp
 Estore is a fully responsive full stack web application. It provides all the basic functunalities of an Ecommerece store, from user authentication, admin logging, to shopping cart, shopping wallet, money coupons etc.
 
 ## Technology Stack
-
+ 
 Estore is build using a bsic and beginner friendly tech stack compromised of:
 
 - **HTML**
