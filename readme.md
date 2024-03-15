@@ -10,7 +10,7 @@ Estore is build using a bsic and beginner friendly tech stack compromised of:
 
 - **HTML**
 - **CSS**
-- **PHP**
+- **Javascript**
 - **MYSQL database**
 - **Boostrap**
 
@@ -43,3 +43,4 @@ Estore is build using a bsic and beginner friendly tech stack compromised of:
 
 ## Team
 - https://github.com/digya010/
+- https://github.com/mehsnmnr
