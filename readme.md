@@ -40,6 +40,8 @@ Estore is build using a bsic and beginner friendly tech stack compromised of:
 
 ![Estore Admin Mode Interface](README_IMAGES/admin_mode.png)
 
+$ git config --global user.name "Digvijay Gaikwad"
+$ git config --global user.email "gaikwaddigvijay2001@gmail.com"
 
 ## Team
 - https://github.com/digya010/
